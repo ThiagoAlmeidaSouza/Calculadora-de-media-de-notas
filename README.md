@@ -10,5 +10,5 @@ Você diz seu nome, suas três notas, e pronto!
 
 Você receberá algo assim:
 
-Thiago Sua nota média foi 7.00.
+Thiago, sua nota média foi 8.00.
 Parabéns Thiago, você foi APROVADO!
