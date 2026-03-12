@@ -6,11 +6,9 @@ Java puro.
 
 # Como funciona?
 
-Você diz seu nome
-Suas três notas
-E pronto! 
+Você diz seu nome, suas três notas, e pronto! 
 
- Você receberá algo assim:
+Você receberá algo assim:
 
 Thiago Sua nota média foi 7.00.
 Parabéns Thiago, você foi APROVADO!
